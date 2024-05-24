@@ -432,7 +432,7 @@ footer p{
 }
 .last-project
 {
-    margin-top:7rem ;
+    margin-top:11rem ;
 }
 .springboot
 {
@@ -445,4 +445,8 @@ footer p{
 .recent1
 {
     margin-top: 12rem;
+}
+.last-img
+{
+    height: 150px;
 }
